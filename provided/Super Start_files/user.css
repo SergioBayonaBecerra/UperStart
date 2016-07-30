@@ -1,0 +1,10 @@
+#bg {
+	background-image: url("file:///home/sergio/.mozilla/firefox/vkq7lszy.default/superstart/background-images/wallpaper-292730.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 50% 88%;
+}
+#bg {
+background-color: #000000;
+}
+.site-title, li.note { color: white; text-shadow: none;}
