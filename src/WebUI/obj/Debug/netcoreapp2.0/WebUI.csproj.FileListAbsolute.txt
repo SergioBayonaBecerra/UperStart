@@ -1,0 +1,10 @@
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/bin/Debug/netcoreapp2.0/WebUI.deps.json
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/bin/Debug/netcoreapp2.0/WebUI.runtimeconfig.json
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/bin/Debug/netcoreapp2.0/WebUI.runtimeconfig.dev.json
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/bin/Debug/netcoreapp2.0/WebUI.dll
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/bin/Debug/netcoreapp2.0/WebUI.pdb
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.csproj.CoreCompileInputs.cache
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.AssemblyInfoInputs.cache
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.AssemblyInfo.cs
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.dll
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.pdb
