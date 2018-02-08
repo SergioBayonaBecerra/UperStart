@@ -10,7 +10,7 @@ namespace WebUI
     {
         public void Configure(IApplicationBuilder app)
         {
-            app.Run(context => context.Response.WriteAsync("Hello World, from ASP.NET!"));
+            app.Run(context => context.Response.WriteAsync("Uperstart is alive!!"));
         }
     }
 }
