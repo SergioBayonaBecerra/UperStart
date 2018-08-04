@@ -8,3 +8,4 @@
 /run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.AssemblyInfo.cs
 /run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.dll
 /run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.pdb
+/run/media/sergio/SDATA/Sergio/Desarrollo/Proyectos/Propios/UperStart/src/WebUI/obj/Debug/netcoreapp2.0/WebUI.csprojAssemblyReference.cache
