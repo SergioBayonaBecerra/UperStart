@@ -212,13 +212,13 @@ body.folder-opened > #container > #notes {
 #sites {
 	position: relative;
 }
-
+/*
 .site {
 	position: absolute;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
+*/
 .site-link {
 	position: relative;
 	text-align: center;
