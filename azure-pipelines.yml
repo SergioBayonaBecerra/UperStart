@@ -12,6 +12,6 @@ pool:
 steps:
 - task: ArchiveFiles@2
   inputs:
-    rootFolderOrFile: '$(build.sourcesDirectory/src/HtmlUI)'
+    rootFolderOrFile: '$(build.sourcesDirectory)/src/HtmlUI'
     includeRootFolder: false
 - task: PublishBuildArtifacts@1
